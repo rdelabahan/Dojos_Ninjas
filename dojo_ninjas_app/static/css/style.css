@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+    margin-top: 15px;
+}
+
+#top {
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    margin-left: 150px; 
+}
+
+.ninja {
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 2px;
+    background: linear-gradient(to left,blue,red);
+    width: 900px;
+    margin-left: 192px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#bottom {
+    height: 300px;
+    width: 500px;
+    margin-left: 400px;
+    align-items: center;
+    border: 3px solid blue;
+    border-radius: 8px;
+    overflow: scroll;
+}
+
+#dojo {
+    margin-left: 175px;
+}
+
+h3 {
+    margin-left: 150px;
+}
+
+ul {
+    margin-left: 180px;
+}
+
+#select {
+    margin-left: -115px;
+}
